@@ -1,27 +1,42 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "beggo",
+        "link": "https://www.youtube.com/@beggo_"
     },
     {
         "role": "helper",
-        "name": "List Helper",
+        "name": "Bodkinz",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
+        {
+        "role": "helper",
+        "name": "Drake",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
-    {
-        "role": "dev",
-        "name": "List Coder",
+        {
+        "role": "helper",
+        "name": "Jackpotgodzilla",
         "link": "https://www.youtube.com/@Prometheus_Alt"
-    }
+    },
+        {
+        "role": "helper",
+        "name": "Janvsx",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+        {
+        "role": "helper",
+        "name": "JonTan",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+        {
+        "role": "helper",
+        "name": "Scizor",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+        {
+        "role": "helper",
+        "name": "Soupy",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
 ]
