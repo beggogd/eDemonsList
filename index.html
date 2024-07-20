@@ -44,13 +44,9 @@
                 <router-link class="nav__tab" to="/">
                     <span class="type-label-lg">List</span>
                 </router-link>
-                <router-link class="nav__tab" to="/leaderboard">
-                    <span class="type-label-lg">Leaderboard</span>
-                </router-link>
-                <router-link class="nav__tab" to="/roulette">
-                    <span class="type-label-lg">Roulette</span>
-                </router-link>
-                 class="nav__icon"
+                <div class="nav__actions">
+                    <button
+                        class="nav__icon"
                         @click.prevent="store.toggleDark()"
                     >
                         <img
@@ -58,8 +54,6 @@
                             alt=""
                         />
                     </button>
-                <div class="nav__actions">
-                    <button
                     <!-- Replace the '#' with your discord server's invite-->
                     <!-- 64-66 disabled for now (discord server) <a class="nav__icon" href="#">
                         <img src="/assets/discord.svg" alt="Discord Logo" />
