@@ -1,9 +1,9 @@
 :root {
     --color-background: #313338; /* overall background, 100% fine */
     --color-on-background: white; /* the text on all except the top */
-    --color-background-hover: blue; /* idk was originally #eee wtf is that */
+    --color-background-hover: #F0B132; /* idk was originally #eee wtf is that ok so when u hover over a list level its the bg color thing */
     --color-on-background-hover: #2E3035; /* idk */
-    --color-primary: #F0B132; /* selected list level on left background thing AND the bar bg at the top */
+    --color-primary: #2B2D31; /* selected list level on left background thing AND the bar bg at the top */
     --color-on-primary: #white; /* selected text i think */
     --color-error: #de0000; /* idk */
     --color-on-error: white; /* idk */
