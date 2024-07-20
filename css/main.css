@@ -1,12 +1,12 @@
 :root {
-    --color-background: #313338;
-    --color-on-background: white;
-    --color-background-hover: #eee;
-    --color-on-background-hover: white;
-    --color-primary: #2B2D31;
-    --color-on-primary: #2E3035;
-    --color-error: #de0000;
-    --color-on-error: white;
+    --color-background: #313338; /* overall background, 100% fine */
+    --color-on-background: blue; /* i think the text */
+    --color-background-hover: #eee; /* idk */
+    --color-on-background-hover: #2E3035; /* idk */
+    --color-primary: #2B2D31; /* idk */
+    --color-on-primary: #white; /* selected text i think */
+    --color-error: #de0000; /* idk */
+    --color-on-error: white; /* idk */
 }
 
 main.dark,
