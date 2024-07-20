@@ -1,15 +1,15 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 71025973,
+    "name": "Oblivion",
+    "author": "Dice88",
+    "creators": ["Benji8080"],
+    "verifier": "bbeggo",
+    "verification": "https://www.youtube.com/watch?v=KN7il4Pmkyg",
+    "percentToQualify": 55,
+    "password": "idk man",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "bbeggo",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
