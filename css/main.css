@@ -12,15 +12,14 @@
 main.dark,
 header.dark {
     color-scheme: dark;
-    --color-background: #1c1b1f;
-    --color-on-background: white;
-    --color-background-hover: #27262c;
-    --color-on-background-hover: white;
-    --color-primary: #283593;
-    --color-primary-disabled: #1f213c;
-    --color-on-primary: white;
-    --color-error: #de0000;
-    --color-on-error: white;
+    --color-background: #313338; /* overall background, 100% fine */
+    --color-on-background: white; /* the text on all except the top */
+    --color-background-hover: #F0B132; /* idk was originally #eee wtf is that ok so when u hover over a list level its the bg color thing */
+    --color-on-background-hover: #2E3035; /* idk */
+    --color-primary: #2B2D31; /* selected list level on left background thing AND the bar bg at the top */
+    --color-on-primary: #ffffff; /* selected list level text, bar at top text */
+    --color-error: #de0000; /* idk */
+    --color-on-error: white; /* idk */
 }
 
 html,
