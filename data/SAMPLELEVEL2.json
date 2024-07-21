@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=vvtUyPaf_so",
             "percent": 100,
             "hz": 43371
+        },
+                {
+            "user": "Scizor",
+            "link": "https://www.youtube.com/watch?v=ILqzrTbmpxE",
+            "percent": 60,
+            "hz": "?"
         }
     ]
 }
