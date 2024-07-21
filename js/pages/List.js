@@ -103,7 +103,7 @@ export default {
                         This is a list of the completed levels for the [e] clan on pointercrate, derived from the "e" group chat on Discord.
                     </p>
                     <p>
-                        
+                        Scizor is the one who originally made this website, but never finished it, so credit goes to him.
                     </p>
                     <p>
                         
