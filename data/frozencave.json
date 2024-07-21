@@ -3,16 +3,10 @@
     "name": "Frozen Cave",
     "author": "TrueParadoxTeam",
     "creators": ["Aqualime", "Vornickon", "AlexOris", "FlashWings576", "DimaCrut", "TyakyoFyai", "Slyent", "Quicklen"],
-    "verifier": "Khrizmass",
+    "verifier": "Scizor",
     "verification": "https://www.youtube.com/watch?v=rKwngl7DJyQ",
     "percentToQualify": 100,
     "password": "Long",
     "records": [
-        {
-            "user": "Scizor",
-            "link": "https://www.youtube.com/watch?v=rKwngl7DJyQ",
-            "percent": 100,
-            "hz": "?"
-        }
     ]
 }
