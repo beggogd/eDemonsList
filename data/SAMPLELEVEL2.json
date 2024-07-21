@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Long",
     "records": [
+        {
+            "user": "beggo",
+            "link": "https://www.youtube.com/watch?v=vvtUyPaf_so",
+            "percent": 100,
+            "hz": 43,371
+        }
     ]
 }
