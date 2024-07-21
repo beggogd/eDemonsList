@@ -51,7 +51,7 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm"></div>
+                            <div class="type-title-sm">Level Length</div>
                             <p>{{ level.password || 'Free to Copy' }}</p>
                         </li>
                     </ul>
@@ -71,7 +71,7 @@ export default {
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                             <td class="hz">
-                                <p>{{ record.hz }}</p>
+                                <p>{{ record.hz }} Attempts</p>
                             </td>
                         </tr>
                     </table>
