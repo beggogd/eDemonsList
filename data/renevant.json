@@ -3,18 +3,12 @@
     "name": "Renevant",
     "author": "Nikroplays",
     "creators": ["Nikroplays"],
-    "verifier": "Rori",
+    "verifier": "beggo",
     "verification": "https://www.youtube.com/watch?v=vvtUyPaf_so",
     "percentToQualify": "60",
     "password": "Long",
     "records": [
         {
-            "user": "beggo",
-            "link": "https://www.youtube.com/watch?v=vvtUyPaf_so",
-            "percent": 100,
-            "hz": 43371
-        },
-                {
             "user": "Scizor",
             "link": "https://www.youtube.com/watch?v=ILqzrTbmpxE",
             "percent": 60,
