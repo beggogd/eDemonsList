@@ -8,5 +8,11 @@
     "percentToQualify": 61,
     "password": "XL",
     "records": [
+                        {
+            "user": "beggo",
+            "link": "https://youtu.be/RNmLVS8LBB4",
+            "percent": 62,
+            "hz": "?"
+        }
     ]
 }
