@@ -8,11 +8,5 @@
     "percentToQualify": "60",
     "password": "Long",
     "records": [
-        {
-            "user": "Scizor",
-            "link": "https://www.youtube.com/watch?v=ILqzrTbmpxE",
-            "percent": 81,
-            "hz": "?"
-        }
     ]
 }
