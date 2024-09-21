@@ -1,1 +1,12 @@
-
+{
+    "id": 84507862,
+    "name": "No Jokes",
+    "author": "TheParadoxTeam",
+    "creators": ["TheParadoxTeam"],
+    "verifier": "Electrx",
+    "verification": "https://www.youtube.com/watch?v=oNH0-A4TfXw",
+    "percentToQualify": 100,
+    "password": "Medium",
+    "records": [
+    ]
+}
