@@ -1,1 +1,13 @@
 
+{
+    "id": 88611404,
+    "name": "NEUTRA",
+    "author": "jenkins",
+    "creators": ["jenkins", "ILRELL", "Marwec"],
+    "verifier": "Scizor",
+    "verification": "https://www.youtube.com/watch?v=Es8AqllCqbg&lc=UgyElou9LzkXBOdkGIl4AaABAg",
+    "percentToQualify": 80,
+    "password": "Long",
+    "records": [
+    ]
+}
