@@ -3,18 +3,12 @@
     "name": "Arctic Lights",
     "author": "Metalface221",
     "creators": ["EndLevel", "ViRuZ"],
-    "verifier": "JonTan",
-    "verification": "https://www.youtube.com/watch?v=V9pOpJCdMH8",
+    "verifier": "Scizor",
+    "verification": "https://www.youtube.com/watch?v=faDwkqwliW4",
     "percentToQualify": 100,
     "password": "Long",
     "records": [
          {
-            "user": "Scizor",
-            "link": "https://www.youtube.com/watch?v=faDwkqwliW4",
-            "percent": 100,
-            "hz": 12037
-        },
-        {
             "user": "Jackpotgodzilla",
             "link": "https://www.youtube.com/watch?v=bnDeLiaLx_c",
             "percent": 100,
