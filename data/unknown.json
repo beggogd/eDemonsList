@@ -12,13 +12,13 @@
             "user": "beggo",
             "link": "https://youtu.be/SyCAEvHFsQs",
             "percent": 100,
-            "hz": 86655
+            "hz": "86,655"
         },
         {
             "user": "Drake",
             "link": "https://www.youtube.com/watch?v=e8h41gxUTFQ",
             "percent": 100,
-            "hz": "195376"
+            "hz": "195,376"
         }
     ]
 }
