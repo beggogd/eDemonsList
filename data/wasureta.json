@@ -9,6 +9,12 @@
     "password": "Medium",
     "records": [
         {
+            "user": "Amdy",
+            "link": "https://www.youtube.com/watch?v=I8ez9m1YfQg",
+            "percent": 100,
+            "hz": 15,710
+        },
+        {
             "user": "Electrx",
             "link": "https://www.youtube.com/watch?v=3E3XyIySQs0",
             "percent": 100,
@@ -19,12 +25,6 @@
             "link": "https://www.youtube.com/watch?v=7xhzlKFWMdg",
             "percent": 100,
             "hz": 7267
-        },
-        {
-            "user": "Amdy",
-            "link": "https://www.youtube.com/watch?v=I8ez9m1YfQg",
-            "percent": 100,
-            "hz": 15,710
         }
     ]
 }
