@@ -1,1 +1,12 @@
-
+{
+    "id": 58825144,
+    "name": "xo",
+    "author": "KarmaL",
+    "creators": ["KarmaL"],
+    "verifier": "Electrx",
+    "verification": "https://www.youtube.com/watch?v=xLG9aGoG9e4",
+    "percentToQualify": 100,
+    "password": "XL",
+    "records": [
+    ]
+}
