@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Medium",
     "records": [
+                {
+            "user": "Electrx",
+            "link": "https://www.youtube.com/watch?v=vtouozab1vM&t",
+            "percent": 100,
+            "hz": "?"
+        }
     ]
 }
