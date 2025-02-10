@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Long",
     "records": [
+         {
+            "user": "Drake",
+            "link": "https://www.youtube.com/watch?v=bxIfTzx1-tk",
+            "percent": 100,
+            "hz": "21219"
+        }
     ]
 }
