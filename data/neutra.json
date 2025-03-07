@@ -8,5 +8,11 @@
     "percentToQualify": 80,
     "password": "Long",
     "records": [
+         {
+            "user": "Electx",
+            "link": "https://www.youtube.com/watch?v=tJ6-MXJQkqE",
+            "percent": 100,
+            "hz": "?"
+        }
     ]
 }
